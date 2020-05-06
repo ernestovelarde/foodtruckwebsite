@@ -1,7 +1,7 @@
 # foodtruckwebsite
 Website created for a start up food-truck business. 
 
-The files contains HTML5, CSS, and a bit of JavaScript material. 
+The files contain HTML5, CSS, and a bit of JavaScript material. 
 
 *OVERALL EXPERIENCE*
 
